@@ -1,6 +1,6 @@
  
 # 💫 About Me:
-👋 Hi, I’m @AlexTryCoding<br>A mechanical engineer from Brazil passionate about automation, programming, Data Science, AI and turning ideas into efficient solutions.<br><br>👀 I’m interested in automation, data analysis, data science, machine learning, and AI.<br>🌱 I’m currently learning Python, data science tools, and machine learning frameworks (via courses like CS50's Python).<br>💞️ I’m looking to collaborate on projects involving automation, data-driven insights, or AI/ML prototypes—or to help others learn! ("When you teach, you learn twice!")<br>📫 How to reach me:<br>📧 alexstoccorodrigues@gmail.com<br>⚡ Fun fact: I started coding as a hobby to automate tedious tasks—now it’s my mission to transition into tech!
+👋 Hi, I’m @Alex_XD<br>A mechanical engineer from Brazil passionate about automation, programming, Data Science, AI and turning ideas into efficient solutions.<br><br>👀 I’m interested in automation, data analysis, data science, machine learning, and AI.<br>🌱 I’m currently learning Python, data science tools, and machine learning frameworks (via courses like CS50's Python).<br>💞️ I’m looking to collaborate on projects involving automation, data-driven insights, or AI/ML prototypes—or to help others learn! ("When you teach, you learn twice!")<br>📫 How to reach me:<br>📧 alexstoccorodrigues@gmail.com<br>⚡ Fun fact: I started coding as a hobby to automate tedious tasks—now it’s my mission to transition into tech!
 
 ```python
 class Developer:
